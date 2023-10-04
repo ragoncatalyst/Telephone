@@ -1,0 +1,32 @@
+{
+  "player": {
+      "name": "夜曲",
+      "health": 100,
+      "attack_power": 10,
+      "skills": {
+        "Fireball": 20,
+        "Ice Shard": 15
+      },
+      "pets": [
+          {
+              "name": "Pet 1",
+              "health": 50,
+              "attack_power": 5
+          },
+          {
+              "name": "Pet 2",
+              "health": 50,
+              "attack_power": 5
+          }
+      ]
+  },
+  "enemy": {
+      "name": "徘徊",
+      "health": 200,
+      "attack_power": 20,
+      "skills": {
+        "1": 2,
+        "2": 1
+      }
+  }
+}
